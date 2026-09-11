@@ -12,7 +12,7 @@ Soy **Ingeniero Industrial y profesional comercial B2B** en transición hacia Da
 
 ## Proyecto destacado
 
-### 📊 Diagnóstico Inteligente de Ventas
+### 📊 [Diagnóstico Inteligente de Ventas](https://github.com/Jcasaran/diagnostico-inteligente-ventas)
 
 Una solución reproducible para analizar exportaciones de CRM, detectar oportunidades estancadas, medir la conversión del embudo y construir un forecast ponderado.
 
